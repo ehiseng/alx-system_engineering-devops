@@ -1,1 +1,1 @@
-*My first scripting repo*
+My_script
