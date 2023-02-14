@@ -1,1 +1,1 @@
-now_learning_shell_variables
+new_read_me_for_shell_variables
